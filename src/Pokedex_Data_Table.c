@@ -1148,7 +1148,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 	{
 		.categoryName = {_R, _o, _c, _k, _SPACE, _S, _n, _a, _k, _e, _END, _SPACE},
 		.height = 88,
-		.weight = 2100,
+		.weight = 2500,
 		.description = (const u8*) 0x844721f,
 		.unusedDescription = (const u8*) 0x8447281,
 		.pokemonScale = 257,
@@ -1580,7 +1580,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 	{
 		.categoryName = {_T, _r, _a, _n, _s, _p, _o, _r, _t, _END, _SPACE, _SPACE},
 		.height = 25,
-		.weight = 2200,
+		.weight = 2600,
 		.description = (const u8*) 0x8448033,
 		.unusedDescription = (const u8*) 0x8448098,
 		.pokemonScale = 256,
@@ -3848,7 +3848,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 	{
 		.categoryName = {_B, _a, _l, _l, _SPACE, _W, _h, _a, _l, _e, _END, _SPACE},
 		.height = 20,
-		.weight = 1300,
+		.weight = 2300,
 		.description = (const u8*) 0x844cb9d,
 		.unusedDescription = (const u8*) 0x844cbff,
 		.pokemonScale = 256,
@@ -3860,7 +3860,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 	{
 		.categoryName = {_F, _l, _o, _a, _t, _SPACE, _W, _h, _a, _l, _e, _END},
 		.height = 145,
-		.weight = 3980,
+		.weight = 4980,
 		.description = (const u8*) 0x844cc00,
 		.unusedDescription = (const u8*) 0x844cc5d,
 		.pokemonScale = 276,
@@ -3896,7 +3896,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 	{
 		.categoryName = {_C, _o, _a, _l, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 5,
-		.weight = 804,
+		.weight = 1804,
 		.description = (const u8*) 0x844cd26,
 		.unusedDescription = (const u8*) 0x844cd8c,
 		.pokemonScale = 392,
@@ -4928,7 +4928,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 	{
 		.categoryName = {_S, _h, _i, _e, _l, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 5,
-		.weight = 570,
+		.weight = 1570,
 		.description = DEX_ENTRY_SHIELDON,
 		.unusedDescription = (const u8*) 0x8444cb1,
 		.pokemonScale = 256,
@@ -4940,7 +4940,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 	{
 		.categoryName = {_S, _h, _i, _e, _l, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 13,
-		.weight = 1495,
+		.weight = 3495,
 		.description = DEX_ENTRY_BASTIODON,
 		.unusedDescription = (const u8*) 0x8444cb1,
 		.pokemonScale = 256,
